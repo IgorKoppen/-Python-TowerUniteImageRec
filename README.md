@@ -1,7 +1,7 @@
-#Python-TowerUniteImageRec
+# Python-TowerUniteImageRec
 Este é um script Python que utiliza várias bibliotecas para realizar a leitura de texto em imagens e automatizar a digitação do texto lido.
 
-Dependências
+## Dependências
 O script utiliza as seguintes bibliotecas:
 
 cv2: Para processamento de imagens.
@@ -9,7 +9,7 @@ pytesseract: Para realizar OCR (Optical Character Recognition) nas imagens.
 pyautogui: Para capturar screenshots e automatizar a digitação.
 keyboard: Para detectar quando uma tecla específica é pressionada.
 pynput: Para obter as coordenadas do mouse.
-Como funciona
+## Como funciona
 O script funciona da seguinte maneira:
 
 Primeiro, ele define o caminho para o executável do Tesseract-OCR.
